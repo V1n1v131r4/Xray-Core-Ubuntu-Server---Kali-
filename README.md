@@ -32,7 +32,7 @@ sudo nano /usr/local/etc/xray/config.json
     "protocol": "vless",
     "settings": {
       "clients": [
-        { "id": "c35cec65-5a66-4c17-8fe6-29296037669d", "flow": "xtls-rprx-vision" }
+        { "id": "SEU_ID", "flow": "xtls-rprx-vision" }
       ],
       "decryption": "none"
     },
@@ -43,7 +43,7 @@ sudo nano /usr/local/etc/xray/config.json
         "show": false,
         "dest": "www.microsoft.com:443",
         "serverNames": ["www.microsoft.com"],
-        "privateKey": "4M37PykjSI9uQuQUQyOG4cU69jsmLXaSGlDXreEs0VU",
+        "privateKey": "REALITY_PRIVATE_KEY",
         "shortIds": ["80", "81"]
       }
     }
@@ -96,14 +96,14 @@ Acessar interface: http://127.0.0.1:2017
 # Configurar servidor:
 ```
 Protocol: vless
-Address: ghost.bunqrlabs.com
+Address: dominio.com
 Port: 443
 ID: c35cec65-5a66-4c17-8fe6-29296037669d
 Flow: xtls-rprx-vision
 Security: reality
 Dest: www.microsoft.com:443
 Server Name: www.microsoft.com
-Private Key: 4M37PykjSI9uQuQUQyOG4cU69jsmLXaSGlDXreEs0VU
+Private Key: SUA_PRIVATE_KEY
 Short ID: 80
 ```
 # Configurar proxy:
