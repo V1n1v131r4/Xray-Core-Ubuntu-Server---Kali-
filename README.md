@@ -19,7 +19,7 @@ xray x25519
 ```
 Configurar domínio:
 
-Crie ghost.bunqrlabs.com apontando para o IP do servidor. 
+Crie dominio.com apontando para o IP do servidor. 
 Editar configuração:
 ```
 sudo nano /usr/local/etc/xray/config.json
