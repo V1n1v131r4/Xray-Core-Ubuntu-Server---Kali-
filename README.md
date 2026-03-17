@@ -114,7 +114,8 @@ Implementation: TProxy
 Traffic Splitting Mode: Proxy All Traffic 
 Salvar → Selecionar servidor → Start
 ```
-✅ Teste em https://dnsleaktest.com
+✅ Teste em https://dnsleaktest.com 
+
 ✅ Teste em https://ipleak.net
 
 ❌ Teste em https://browserleaks.com/webrtc
