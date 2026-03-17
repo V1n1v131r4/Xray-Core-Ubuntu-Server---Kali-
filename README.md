@@ -1,4 +1,4 @@
-# Xray-Core-Ubuntu-Server---Kali-
+# Xray-Core (Ubuntu Server e Kali Linux)
 Instalação do Xray-core com REALITY (2026)
 
 
